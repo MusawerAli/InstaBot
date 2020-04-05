@@ -1,1 +1,1 @@
-pwd = "786786321786!!"
+pwd = "your-instagram password-here"
